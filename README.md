@@ -10,7 +10,8 @@ Each found palindrome is only listed once. The program keeps track of already fo
 The program terminates by pressing enter.
 
 
-Terminal example use:
+Usage:
+------
 $python3 find_palindrome.py
 Bob wants a racecar.
 
@@ -27,7 +28,7 @@ $
 
 
 Contents:
-
+--------
 find_palindrome.py is the main program.
 
 is_palindrome.py defines what a palindrome is and tests given input if it is a palindrome. It returns True or False. One character words are considered as 
